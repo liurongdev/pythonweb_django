@@ -1,7 +1,100 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9b1fb4e6-fce0-413f-af54-9ad6487565bf" name="Default" comment="" />
+    <list default="true" id="9b1fb4e6-fce0-413f-af54-9ad6487565bf" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_18/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_18/learning_log/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_18/learning_log/settings.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_18/learning_log/urls.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_18/learning_log/wsgi.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_18/learning_logs/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_18/learning_logs/admin.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_18/learning_logs/migrations/0001_initial.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_18/learning_logs/migrations/0002_entry.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_18/learning_logs/migrations/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_18/learning_logs/models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_18/learning_logs/templates/learning_logs/base.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_18/learning_logs/templates/learning_logs/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_18/learning_logs/templates/learning_logs/topic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_18/learning_logs/templates/learning_logs/topics.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_18/learning_logs/tests.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_18/learning_logs/urls.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_18/learning_logs/views.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_18/manage.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_19/learning_log/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_19/learning_log/settings.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_19/learning_log/urls.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_19/learning_log/wsgi.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_19/learning_logs/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_19/learning_logs/admin.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_19/learning_logs/forms.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_19/learning_logs/migrations/0001_initial.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_19/learning_logs/migrations/0002_entry.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_19/learning_logs/migrations/0003_topic_owner.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_19/learning_logs/migrations/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_19/learning_logs/models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_19/learning_logs/templates/learning_logs/base.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_19/learning_logs/templates/learning_logs/edit_entry.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_19/learning_logs/templates/learning_logs/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_19/learning_logs/templates/learning_logs/new_entry.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_19/learning_logs/templates/learning_logs/new_topic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_19/learning_logs/templates/learning_logs/topic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_19/learning_logs/templates/learning_logs/topics.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_19/learning_logs/tests.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_19/learning_logs/urls.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_19/learning_logs/views.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_19/manage.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_19/users/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_19/users/admin.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_19/users/migrations/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_19/users/models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_19/users/templates/users/login.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_19/users/templates/users/register.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_19/users/tests.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_19/users/urls.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_19/users/views.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_20/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_20/Procfile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_20/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_20/learning_log/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_20/learning_log/settings.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_20/learning_log/static/placeholder.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_20/learning_log/templates/404.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_20/learning_log/templates/500.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_20/learning_log/urls.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_20/learning_log/wsgi.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_20/learning_logs/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_20/learning_logs/admin.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_20/learning_logs/forms.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_20/learning_logs/migrations/0001_initial.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_20/learning_logs/migrations/0002_entry.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_20/learning_logs/migrations/0003_topic_owner.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_20/learning_logs/migrations/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_20/learning_logs/models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_20/learning_logs/templates/learning_logs/base.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_20/learning_logs/templates/learning_logs/edit_entry.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_20/learning_logs/templates/learning_logs/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_20/learning_logs/templates/learning_logs/new_entry.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_20/learning_logs/templates/learning_logs/new_topic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_20/learning_logs/templates/learning_logs/topic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_20/learning_logs/templates/learning_logs/topics.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_20/learning_logs/tests.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_20/learning_logs/urls.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_20/learning_logs/views.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_20/manage.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_20/requirements.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_20/runtime.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_20/users/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_20/users/admin.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_20/users/migrations/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_20/users/models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_20/users/templates/users/login.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_20/users/templates/users/register.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_20/users/tests.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_20/users/urls.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter_20/users/views.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,16 +104,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="new_topic.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learning_logs/templates/learning_logs/new_topic.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="5" column="18" lean-forward="false" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="topic.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/learning_logs/templates/learning_logs/topic.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -64,8 +147,18 @@
       <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/learning_log/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="244">
-              <caret line="136" column="71" lean-forward="false" selection-start-line="136" selection-start-column="62" selection-end-line="136" selection-end-column="71" />
+            <state relative-caret-position="81">
+              <caret line="15" column="58" lean-forward="false" selection-start-line="15" selection-start-column="51" selection-end-line="15" selection-end-column="58" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="manage.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chapter_18/manage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -83,7 +176,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="wsgi.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="wsgi.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/learning_log/wsgi.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="325">
@@ -124,6 +217,9 @@
         <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -175,6 +271,7 @@
       </profile-state>
     </entry>
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -196,11 +293,6 @@
             <path>
               <item name="web_Django" type="b2602c69:ProjectViewProjectNode" />
               <item name="web_Django" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="web_Django" type="b2602c69:ProjectViewProjectNode" />
-              <item name="web_Django" type="462c0819:PsiDirectoryNode" />
-              <item name="learning_log" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -255,15 +347,15 @@
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924107" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.57477677" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40066963" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40111732" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -553,14 +645,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/learning_log/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="136" column="71" lean-forward="false" selection-start-line="136" selection-start-column="62" selection-end-line="136" selection-end-column="71" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Desktop/《Python编程》源代码文件/chapter_20/learning_log/wsgi.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="372">
@@ -578,6 +662,22 @@
           <folding>
             <element signature="e#229#238#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning_log/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="15" column="58" lean-forward="false" selection-start-line="15" selection-start-column="51" selection-end-line="15" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_18/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
